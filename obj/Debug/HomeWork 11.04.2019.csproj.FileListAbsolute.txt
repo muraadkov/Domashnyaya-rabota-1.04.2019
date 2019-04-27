@@ -1,0 +1,8 @@
+C:\Users\АдылкановМ.CORP\source\repos\HomeWork 11.04.2019\HomeWork 11.04.2019\bin\Debug\Database.mdf
+C:\Users\АдылкановМ.CORP\source\repos\HomeWork 11.04.2019\HomeWork 11.04.2019\bin\Debug\Database_log.ldf
+C:\Users\АдылкановМ.CORP\source\repos\HomeWork 11.04.2019\HomeWork 11.04.2019\bin\Debug\HomeWork 11.04.2019.exe.config
+C:\Users\АдылкановМ.CORP\source\repos\HomeWork 11.04.2019\HomeWork 11.04.2019\bin\Debug\HomeWork 11.04.2019.exe
+C:\Users\АдылкановМ.CORP\source\repos\HomeWork 11.04.2019\HomeWork 11.04.2019\bin\Debug\HomeWork 11.04.2019.pdb
+C:\Users\АдылкановМ.CORP\source\repos\HomeWork 11.04.2019\HomeWork 11.04.2019\obj\Debug\HomeWork 11.04.2019.csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ.CORP\source\repos\HomeWork 11.04.2019\HomeWork 11.04.2019\obj\Debug\HomeWork 11.04.2019.exe
+C:\Users\АдылкановМ.CORP\source\repos\HomeWork 11.04.2019\HomeWork 11.04.2019\obj\Debug\HomeWork 11.04.2019.pdb
